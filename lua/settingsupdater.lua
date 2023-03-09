@@ -105,7 +105,7 @@ end
 
 function check_for_update()
 	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
-	os.execute("curl -k https://raw.githubusercontent.com/KittyBua/luasettings/main/services.xml -o " .. tmp .. "/version_online")
+	os.execute("curl -k https://raw.githubusercontent.com/KittyBua/luasettings/main/start/services.xml -o " .. tmp .. "/version_online")
 	for line in io.lines(tmp .. "/version_online") do
 		if line:match(",") and line:match(":") then
 			local _,mark_begin = string.find(line, ",")
