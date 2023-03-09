@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>     
+<!--
+Created with SetEditNeutrino version 1.10
+http://www.setedit.de
+//-->
+<zapit>
+	<Bouquet name="öffentl-rechtl" hidden="0" locked="0">
+		<channel serviceID="6dca" name="Das Erste" tsid="044d" onid="0001"/>
+		<channel serviceID="6d66" name="ZDF" tsid="0437" onid="0001"/>
+		<channel serviceID="6d6b" name="ZDFinfo" tsid="0437" onid="0001"/>
+		<channel serviceID="6d6e" name="zdf_neo" tsid="0437" onid="0001"/>
+		<channel serviceID="6d67" name="3sat" tsid="0437" onid="0001"/>
+		<channel serviceID="6d68" name="KiKA" tsid="0437" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="dritte-regional" hidden="0" locked="0">
+		<channel serviceID="6e2e" name="rbb Berlin" tsid="0431" onid="0001"/>
+		<channel serviceID="6e2d" name="rbb Brandenburg" tsid="0431" onid="0001"/>
+		<channel serviceID="6dcc" name="hr-fernsehen" tsid="044d" onid="0001"/>
+		<channel serviceID="6e45" name="MDR S-Anhalt" tsid="0431" onid="0001"/>
+		<channel serviceID="6e44" name="MDR Sachsen" tsid="0431" onid="0001"/>
+		<channel serviceID="6e46" name="MDR Thüringen" tsid="0431" onid="0001"/>
+		<channel serviceID="6dcf" name="WDR Köln" tsid="044d" onid="0001"/>
+		<channel serviceID="6e92" name="WDR Bielefeld" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e93" name="WDR Dortmund" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e94" name="WDR Düsseldorf" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e95" name="WDR Essen" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e96" name="WDR Münster" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e97" name="WDR Siegen" tsid="04b1" onid="0001"/>
+		<channel serviceID="6f76" name="WDR Aachen" tsid="0457" onid="0001"/>
+		<channel serviceID="6f78" name="WDR Bonn" tsid="0457" onid="0001"/>
+		<channel serviceID="6f79" name="WDR Duisburg" tsid="0457" onid="0001"/>
+		<channel serviceID="6f77" name="WDR Wuppertal" tsid="0457" onid="0001"/>
+		<channel serviceID="6e47" name="SWR Fernsehen RP" tsid="0431" onid="0001"/>
+		<channel serviceID="6dd1" name="SWR Fernsehen BW" tsid="044d" onid="0001"/>
+		<channel serviceID="6dcb" name="BR Fernsehen Süd" tsid="044d" onid="0001"/>
+		<channel serviceID="6dce" name="BR Fernsehen Nord" tsid="044d" onid="0001"/>
+		<channel serviceID="6e41" name="NDR FS HH" tsid="0431" onid="0001"/>
+		<channel serviceID="6e40" name="NDR FS MV" tsid="0431" onid="0001"/>
+		<channel serviceID="6e43" name="NDR FS SH" tsid="0431" onid="0001"/>
+		<channel serviceID="6e42" name="NDR FS NDS" tsid="0431" onid="0001"/>
+		<channel serviceID="6ee2" name="SR Fernsehen" tsid="04b1" onid="0001"/>
+		<channel serviceID="6ee1" name="Radio Bremen TV" tsid="04b1" onid="0001"/>
+		<channel serviceID="3146" name="rhein main tv" tsid="0459" onid="0001"/>
+		<channel serviceID="3339" name="L-TV" tsid="045b" onid="0001"/>
+		<channel serviceID="002f" name="REGIO TV" tsid="0021" onid="0085"/>
+		<channel serviceID="004c" name="Baden TV" tsid="0021" onid="0085"/>
+		<channel serviceID="7a4c" name="SACHSEN EINS" tsid="0410" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="privat" hidden="0" locked="0">
+		<channel serviceID="445d" name="ProSieben" tsid="0453" onid="0001"/>
+		<channel serviceID="4461" name="Pro7 MAXX" tsid="0453" onid="0001"/>
+		<channel serviceID="445c" name="SAT.1" tsid="0453" onid="0001"/>
+		<channel serviceID="4460" name="SAT.1 Gold" tsid="0453" onid="0001"/>
+		<channel serviceID="2ee3" name="RTL Television" tsid="0441" onid="0001"/>
+		<channel serviceID="2ef4" name="RTLZWEI" tsid="0441" onid="0001"/>
+		<channel serviceID="2f1d" name="NITRO" tsid="0441" onid="0001"/>
+		<channel serviceID="2f30" name="RTLup" tsid="0441" onid="0001"/>
+		<channel serviceID="2f08" name="SUPER RTL" tsid="0441" onid="0001"/>
+		<channel serviceID="445e" name="kabel eins" tsid="0453" onid="0001"/>
+		<channel serviceID="4465" name="kabel eins Doku" tsid="0453" onid="0001"/>
+		<channel serviceID="2f1c" name="VOX" tsid="0441" onid="0001"/>
+		<channel serviceID="7094" name="VOXup" tsid="0443" onid="0001"/>
+		<channel serviceID="0033" name="TELE 5" tsid="0021" onid="0085"/>
+		<channel serviceID="0308" name="SIXX" tsid="0005" onid="0085"/>
+		<channel serviceID="0304" name="TLC" tsid="0005" onid="0085"/>
+		<channel serviceID="02fc" name="ANIXE+" tsid="0005" onid="0085"/>
+		<channel serviceID="0023" name="Schlager Deluxe" tsid="000f" onid="0085"/>
+		<channel serviceID="003f" name="DMAX" tsid="0021" onid="0085"/>
+		<channel serviceID="3336" name="ServusTV Deutschland" tsid="045b" onid="0001"/>
+		<channel serviceID="332f" name="Lilo.TV" tsid="045b" onid="0001"/>
+		<channel serviceID="0701" name="Disney Channel" tsid="0005" onid="0085"/>
+		<channel serviceID="7008" name="Nick/Comedy Central+1" tsid="0436" onid="0001"/>
+		<channel serviceID="2efe" name="TOGGO plus" tsid="0441" onid="0001"/>
+		<channel serviceID="7004" name="Comedy Central" tsid="0436" onid="0001"/>
+		<channel serviceID="2ee6" name="RTL Bayern" tsid="0441" onid="0001"/>
+		<channel serviceID="7008" name="Nick/Comedy Central+1" tsid="0436" onid="0001"/>
+		<channel serviceID="2ee4" name="RTL Regional NRW" tsid="0441" onid="0001"/>
+		<channel serviceID="2ee5" name="RTL HB NDS" tsid="0441" onid="0001"/>
+		<channel serviceID="2ee9" name="RTL HH SH" tsid="0441" onid="0001"/>
+		<channel serviceID="4463" name="SAT.1 Bayern" tsid="0453" onid="0001"/>
+		<channel serviceID="4e28" name="SAT.1 HH/SH" tsid="043a" onid="0001"/>
+		<channel serviceID="4e29" name="SAT.1 NS/Bremen" tsid="043a" onid="0001"/>
+		<channel serviceID="4e2a" name="SAT.1 RhlPf/Hessen" tsid="043a" onid="0001"/>
+		<channel serviceID="4464" name="SAT.1 NRW" tsid="0453" onid="0001"/>
+		<channel serviceID="315a" name="nice" tsid="0459" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="sport" hidden="0" locked="0">
+		<channel serviceID="0384" name="SPORT1" tsid="0021" onid="0085"/>
+		<channel serviceID="79e0" name="Eurosport 1 Deutschland" tsid="0443" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="musik" hidden="0" locked="0">
+		<channel serviceID="0041" name="DELUXE MUSIC" tsid="0007" onid="0085"/>
+		<channel serviceID="313c" name="Deutsches Musik Fernsehen" tsid="0459" onid="0001"/>
+		<channel serviceID="3164" name="Schlager Radio" tsid="0459" onid="0001"/>
+		<channel serviceID="32d7" name="Mei Musi " tsid="045d" onid="0001"/>
+		<channel serviceID="23a2" name="DEUTSCHE GRAMMOPHON+" tsid="044a" onid="0001"/>
+		<channel serviceID="0306" name="FOLX MUSIC TELEVISION" tsid="0007" onid="0085"/>
+		<channel serviceID="3159" name="volksmusik" tsid="0459" onid="0001"/>
+		<channel serviceID="32da" name="Volksmusik.TV" tsid="045d" onid="0001"/>
+		<channel serviceID="6ff0" name="MTV 00s" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff1" name="MTV 80s" tsid="0436" onid="0001"/>
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="kids" hidden="0" locked="0">
+		<channel serviceID="6d68" name="KiKA" tsid="0437" onid="0001"/>
+		<channel serviceID="2efe" name="TOGGO plus" tsid="0441" onid="0001"/>
+		<channel serviceID="0701" name="Disney Channel" tsid="0005" onid="0085"/>
+		<channel serviceID="7008" name="Nick/Comedy Central+1" tsid="0436" onid="0001"/>
+		<channel serviceID="003d" name="Nick/Comedy Central Austria" tsid="0007" onid="0085"/>
+	</Bouquet>
+	<Bouquet name="news" hidden="0" locked="0">
+		<channel serviceID="445f" name="WELT" tsid="0453" onid="0001"/>
+		<channel serviceID="0030" name="N24 DOKU" tsid="0005" onid="0085"/>
+		<channel serviceID="0035" name="N24 DOKU Austria" tsid="0007" onid="0085"/>
+		<channel serviceID="2f3a" name="ntv" tsid="0441" onid="0001"/>
+		<channel serviceID="79f4" name="EURONEWS FRENCH SD" tsid="0443" onid="0001"/>
+		<channel serviceID="79fe" name="EURONEWS GERMAN SD" tsid="0443" onid="0001"/>
+		<channel serviceID="1c7a" name="Sky News Intl" tsid="0457" onid="0001"/>
+		<channel serviceID="1146" name="CNN Int." tsid="0404" onid="0001"/>
+		<channel serviceID="17d5" name="CNN Int." tsid="042a" onid="0001"/>
+		<channel serviceID="1afa" name="France 24 (In English)" tsid="03fe" onid="0001"/>
+		<channel serviceID="1b03" name="TV5MONDE EUROPE HD" tsid="03fe" onid="0001"/>
+		<channel serviceID="1c20" name="Bloomberg Europe TV" tsid="0457" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="österreich" hidden="0" locked="0">
+		<channel serviceID="32c9" name="ORF1" tsid="045d" onid="0001"/>
+		<channel serviceID="32ca" name="ORF2" tsid="045d" onid="0001"/>
+		<channel serviceID="332d" name="ORF III" tsid="045b" onid="0001"/>
+		<channel serviceID="33a5" name="ORF SPORT+" tsid="03eb" onid="0001"/>
+		<channel serviceID="4e27" name="PULS 4 Austria" tsid="043a" onid="0001"/>
+		<channel serviceID="32d4" name="ATV" tsid="045d" onid="0001"/>
+		<channel serviceID="0049" name="DMAX Austria" tsid="0007" onid="0085"/>
+		<channel serviceID="33aa" name="StarParadies AT" tsid="03eb" onid="0001"/>
+		<channel serviceID="32db" name="RiC" tsid="045d" onid="0001"/>
+		<channel serviceID="32d6" name="ORF2E" tsid="045d" onid="0001"/>
+		<channel serviceID="32cb" name="ORF2 W" tsid="045d" onid="0001"/>
+		<channel serviceID="32cc" name="ORF2 N" tsid="045d" onid="0001"/>
+		<channel serviceID="32cd" name="ORF2 B" tsid="045d" onid="0001"/>
+		<channel serviceID="32ce" name="ORF2 O" tsid="045d" onid="0001"/>
+		<channel serviceID="32cf" name="ORF2 S" tsid="045d" onid="0001"/>
+		<channel serviceID="32d0" name="ORF2 T" tsid="045d" onid="0001"/>
+		<channel serviceID="32d1" name="ORF2 V" tsid="045d" onid="0001"/>
+		<channel serviceID="32d2" name="ORF2 St" tsid="045d" onid="0001"/>
+		<channel serviceID="32d3" name="ORF2 K" tsid="045d" onid="0001"/>
+		<channel serviceID="3332" name="Shop LC" tsid="045b" onid="0001"/>
+		<channel serviceID="4e22" name="ProSieben Austria" tsid="043a" onid="0001"/>
+		<channel serviceID="4e24" name="Kabel 1 Austria" tsid="043a" onid="0001"/>
+		<channel serviceID="4e25" name="SAT.1 A" tsid="043a" onid="0001"/>
+		<channel serviceID="708f" name="SUPER RTL A" tsid="0443" onid="0001"/>
+		<channel serviceID="708a" name="RTLZWEI Austria" tsid="0443" onid="0001"/>
+		<channel serviceID="33ad" name="RTLup Austria" tsid="03eb" onid="0001"/>
+		<channel serviceID="7085" name="VOX Austria" tsid="0443" onid="0001"/>
+		<channel serviceID="7080" name="RTL Austria" tsid="0443" onid="0001"/>
+		<channel serviceID="332e" name="NITRO Austria" tsid="045b" onid="0001"/>
+		<channel serviceID="0035" name="N24 DOKU Austria" tsid="0007" onid="0085"/>
+		<channel serviceID="32dd" name="ntv Austria" tsid="045d" onid="0001"/>
+		<channel serviceID="33a9" name="Schau TV HD" tsid="03eb" onid="0001"/>
+		<channel serviceID="33a6" name="StarParadies D" tsid="03eb" onid="0001"/>
+		<channel serviceID="003d" name="Nick/Comedy Central Austria" tsid="0007" onid="0085"/>
+		<channel serviceID="3330" name="LT1-OOE" tsid="045b" onid="0001"/>
+		<channel serviceID="32df" name="TV1 OOE NEU" tsid="045d" onid="0001"/>
+		<channel serviceID="3337" name="ServusTV Oesterreich" tsid="045b" onid="0001"/>
+		<channel serviceID="0047" name="TLC Austria" tsid="0007" onid="0085"/>
+		<channel serviceID="3338" name="4MEDIATHEK" tsid="045b" onid="0001"/>
+		<channel serviceID="33b0" name="Service 13232" tsid="03eb" onid="0001"/>
+		<channel serviceID="33b1" name="Service 13233" tsid="03eb" onid="0001"/>
+		<channel serviceID="33ac" name="ATV HD" tsid="03eb" onid="0001"/>
+		<channel serviceID="33a7" name="ATV2 HD" tsid="03eb" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="austriasat" hidden="0" locked="0">
+		<channel serviceID="1013" name="Bergblick" tsid="0451" onid="0035"/>
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="101d" name="AXN Deutschland" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="schweiz" hidden="0" locked="0">
+		<channel serviceID="1260" name="3+" tsid="03f7" onid="0001"/>
+		<channel serviceID="4e26" name="SAT.1 CH" tsid="043a" onid="0001"/>
+		<channel serviceID="4e21" name="ProSieben Schweiz" tsid="043a" onid="0001"/>
+		<channel serviceID="4e23" name="Kabel 1 Schweiz" tsid="043a" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Sky Entertainment" hidden="0" locked="0">
+		<channel serviceID="6ffb" name="Nick.Jr." tsid="0436" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Sky Kids" hidden="0" locked="0">
+		<channel serviceID="6ffb" name="Nick.Jr." tsid="0436" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Platzhalter." hidden="0" locked="0">
+		<channel serviceID="4e2b" name="." tsid="043a" onid="0001"/>
+		<channel serviceID="4462" name="." tsid="0453" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="religion" hidden="0" locked="0">
+		<channel serviceID="2f5a" name="Bibel TV" tsid="0454" onid="0001"/>
+		<channel serviceID="003e" name="EWTN katholisches TV" tsid="0005" onid="0085"/>
+		<channel serviceID="3139" name="K-TV" tsid="0459" onid="0001"/>
+		<channel serviceID="7a4a" name="SENDER NEU JERUSALEM" tsid="0410" onid="0001"/>
+		<channel serviceID="1269" name="Die Neue Zeit TV" tsid="03f7" onid="0001"/>
+		<channel serviceID="33ab" name="Hope TV" tsid="03eb" onid="0001"/>
+		<channel serviceID="33a8" name="Bibel TV HD" tsid="03eb" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="shopping/games" hidden="0" locked="0">
+		<channel serviceID="2f44" name="QVC Deutschland" tsid="0454" onid="0001"/>
+		<channel serviceID="0d42" name="QVC2" tsid="0454" onid="0001"/>
+		<channel serviceID="0040" name="QVC STYLE" tsid="0005" onid="0085"/>
+		<channel serviceID="0702" name="QVC" tsid="0005" onid="0085"/>
+		<channel serviceID="79ea" name="HSE Extra" tsid="0443" onid="0001"/>
+		<channel serviceID="004d" name="HSE Trend SD" tsid="0021" onid="0085"/>
+		<channel serviceID="0028" name="HSE SD" tsid="0021" onid="0085"/>
+		<channel serviceID="0307" name="MediaShop- Meine Einkaufswelt" tsid="0007" onid="0085"/>
+		<channel serviceID="0382" name="MediaShop- Neuheiten" tsid="0021" onid="0085"/>
+		<channel serviceID="02fd" name="pearl.tv Shop" tsid="0007" onid="0085"/>
+		<channel serviceID="002e" name="Handystar TV 2" tsid="0021" onid="0085"/>
+		<channel serviceID="0383" name="meinTVshop" tsid="0021" onid="0085"/>
+		<channel serviceID="0296" name="1-2-3.tv" tsid="0005" onid="0085"/>
+		<channel serviceID="0295" name="AstroTV" tsid="0021" onid="0085"/>
+		<channel serviceID="0301" name="Channel21" tsid="0007" onid="0085"/>
+		<channel serviceID="0036" name="Genius exklusiv" tsid="0007" onid="0085"/>
+		<channel serviceID="0381" name="Genius Trend" tsid="0021" onid="0085"/>
+		<channel serviceID="0202" name="Immer etwas Neues TV" tsid="0007" onid="0085"/>
+		<channel serviceID="0020" name="Sonnenklar TV" tsid="0021" onid="0085"/>
+		<channel serviceID="0293" name="Handystar TV" tsid="0005" onid="0085"/>
+		<channel serviceID="0026" name="HGTV" tsid="000f" onid="0085"/>
+		<channel serviceID="0021" name="Genius family" tsid="000f" onid="0085"/>
+		<channel serviceID="32de" name="Wir24TV" tsid="045d" onid="0001"/>
+		<channel serviceID="3355" name="AstroTV HD" tsid="045b" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="chat/screenpeaks" hidden="0" locked="0">
+		<channel serviceID="3333" name="VISIT-X.tv" tsid="045b" onid="0001"/>
+		<channel serviceID="3150" name="Fotohandy" tsid="0459" onid="0001"/>
+		<channel serviceID="313e" name="More Than Sports TV" tsid="0459" onid="0001"/>
+		<channel serviceID="3144" name="GayBoys LIVE" tsid="0459" onid="0001"/>
+		<channel serviceID="314a" name="Dreamgirls24 TV temp" tsid="0459" onid="0001"/>
+		<channel serviceID="314b" name="Erotiksat24 TV temp" tsid="0459" onid="0001"/>
+		<channel serviceID="3148" name="JuweloTV" tsid="0459" onid="0001"/>
+		<channel serviceID="314e" name="Maennersache TV" tsid="0459" onid="0001"/>
+		<channel serviceID="3151" name="Mobile Sex" tsid="0459" onid="0001"/>
+		<channel serviceID="3152" name="SEX-Kontakte" tsid="0459" onid="0001"/>
+		<channel serviceID="3156" name="Heiss und Sexy TV" tsid="0459" onid="0001"/>
+		<channel serviceID="3155" name="Traumfrauen TV" tsid="0459" onid="0001"/>
+		<channel serviceID="315b" name="Babestation24" tsid="0459" onid="0001"/>
+		<channel serviceID="314f" name="DateLine" tsid="0459" onid="0001"/>
+		<channel serviceID="3160" name="BunnyClub24" tsid="0459" onid="0001"/>
+		<channel serviceID="3161" name="Clipmobile" tsid="0459" onid="0001"/>
+		<channel serviceID="315f" name="EROTIKA TV - NEU!" tsid="0459" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="HD+" hidden="0" locked="0">
+		<channel serviceID="307a" name="RTL UHD" tsid="03f5" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="erotik" hidden="0" locked="0">
+		<channel serviceID="778b" name="PLAYBOY TV" tsid="0424" onid="0001"/>
+		<channel serviceID="7568" name="ALQUILER X" tsid="0412" onid="0001"/>
+		<channel serviceID="7569" name="ALQUILER XX" tsid="0412" onid="0001"/>
+		<channel serviceID="7695" name="ALQUILER XY" tsid="041e" onid="0001"/>
+		<channel serviceID="100b" name="Hustler TV" tsid="0451" onid="0035"/>
+		<channel serviceID="100d" name="Hustler TV CZ" tsid="0451" onid="0035"/>
+		<channel serviceID="23d1" name="LE PORN" tsid="044a" onid="0001"/>
+		<channel serviceID="23d3" name="PASS XXL DORCEL" tsid="044a" onid="0001"/>
+		<channel serviceID="0fe0" name="Vivid" tsid="0451" onid="0035"/>
+		<channel serviceID="0fe1" name="Vivid CZ" tsid="0451" onid="0035"/>
+		<channel serviceID="23d6" name="PASS PINK X" tsid="044a" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Beta Digital" hidden="0" locked="0">
+		<channel serviceID="126e" name=".1." tsid="03f7" onid="0001"/>
+		<channel serviceID="126f" name=".2." tsid="03f7" onid="0001"/>
+		<channel serviceID="1270" name=".3." tsid="03f7" onid="0001"/>
+		<channel serviceID="125e" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="125c" name="SES 01" tsid="03f7" onid="0001"/>
+		<channel serviceID="125d" name="SES 02" tsid="03f7" onid="0001"/>
+		<channel serviceID="125f" name="SES 04" tsid="03f7" onid="0001"/>
+		<channel serviceID="1261" name="SES 06" tsid="03f7" onid="0001"/>
+		<channel serviceID="1262" name="SES 07" tsid="03f7" onid="0001"/>
+		<channel serviceID="1263" name="SES 08" tsid="03f7" onid="0001"/>
+		<channel serviceID="1264" name="SES 09" tsid="03f7" onid="0001"/>
+		<channel serviceID="1265" name="SES 10" tsid="03f7" onid="0001"/>
+		<channel serviceID="126b" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="126c" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="126d" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="1267" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="126a" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="1266" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="0048" name="." tsid="0007" onid="0085"/>
+		<channel serviceID="0038" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="0300" name="." tsid="0007" onid="0085"/>
+		<channel serviceID="003a" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="0037" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="0039" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="1268" name="." tsid="03f7" onid="0001"/>
+		<channel serviceID="003b" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="0046" name="." tsid="0007" onid="0085"/>
+		<channel serviceID="3070" name="." tsid="03f5" onid="0001"/>
+		<channel serviceID="0025" name="." tsid="000f" onid="0085"/>
+		<channel serviceID="0027" name="." tsid="000f" onid="0085"/>
+	</Bouquet>
+	<Bouquet name="UHD" hidden="0" locked="0">
+		<channel serviceID="307a" name="RTL UHD" tsid="03f5" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Astra_TV" hidden="0" locked="0">
+		<channel serviceID="6eeb" name="WDR Test A" tsid="04b1" onid="0001"/>
+		<channel serviceID="6e3d" name="ARD-TEST-1" tsid="0431" onid="0001"/>
+		<channel serviceID="3163" name="ALT Sendersuchlauf starten!!" tsid="0459" onid="0001"/>
+		<channel serviceID="7a4b" name="I24 Francis" tsid="0410" onid="0001"/>
+		<channel serviceID="7699" name="MEZZO" tsid="041e" onid="0001"/>
+		<channel serviceID="2f6c" name="Cherie 25" tsid="0454" onid="0001"/>
+		<channel serviceID="2f6d" name="Cherie 25" tsid="0454" onid="0001"/>
+		<channel serviceID="1006" name="AB3" tsid="0451" onid="0035"/>
+		<channel serviceID="7a49" name="Telesur HD" tsid="0410" onid="0001"/>
+		<channel serviceID="101c" name="Canal+  First  HD" tsid="0451" onid="0035"/>
+		<channel serviceID="7a47" name="Promo TSA" tsid="0410" onid="0001"/>
+		<channel serviceID="2f69" name="Canal Algerie" tsid="0454" onid="0001"/>
+		<channel serviceID="2f6a" name="Algerie 3" tsid="0454" onid="0001"/>
+		<channel serviceID="75f3" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75fb" name="." tsid="0408" onid="0001"/>
+		<channel serviceID="003c" name="." tsid="0007" onid="0085"/>
+		<channel serviceID="75f4" name="10847V SID 0x75f4" tsid="0422" onid="0001"/>
+		<channel serviceID="003c" name="." tsid="0007" onid="0085"/>
+		<channel serviceID="2392" name="12363V SID 0x2392" tsid="044a" onid="0001"/>
+		<channel serviceID="23bc" name="12363V SID 0x23bc" tsid="044a" onid="0001"/>
+		<channel serviceID="23ec" name="12363V SID 0x23ec" tsid="044a" onid="0001"/>
+		<channel serviceID="2393" name="12363V SID 0x2393" tsid="044a" onid="0001"/>
+		<channel serviceID="2391" name="12363V SID 0x2391" tsid="044a" onid="0001"/>
+		<channel serviceID="2394" name="12363V SID 0x2394" tsid="044a" onid="0001"/>
+		<channel serviceID="23d2" name="12363V SID 0x23d2" tsid="044a" onid="0001"/>
+		<channel serviceID="7586" name="11097V SID 0x7586" tsid="0412" onid="0001"/>
+		<channel serviceID="7585" name="11097V SID 0x7585" tsid="0412" onid="0001"/>
+		<channel serviceID="757a" name="11097V SID 0x757a" tsid="0412" onid="0001"/>
+		<channel serviceID="7580" name="11097V SID 0x7580" tsid="0412" onid="0001"/>
+		<channel serviceID="76a6" name="10788V SID 0x76a6" tsid="041e" onid="0001"/>
+		<channel serviceID="7573" name="11097V SID 0x7573" tsid="0412" onid="0001"/>
+		<channel serviceID="759b" name="10847V SID 0x759b" tsid="0422" onid="0001"/>
+		<channel serviceID="768f" name="10788V SID 0x768f" tsid="041e" onid="0001"/>
+		<channel serviceID="7693" name="10788V SID 0x7693" tsid="041e" onid="0001"/>
+		<channel serviceID="7562" name="11097V SID 0x7562" tsid="0412" onid="0001"/>
+		<channel serviceID="7563" name="11097V SID 0x7563" tsid="0412" onid="0001"/>
+		<channel serviceID="7565" name="11097V SID 0x7565" tsid="0412" onid="0001"/>
+		<channel serviceID="7566" name="11097V SID 0x7566" tsid="0412" onid="0001"/>
+		<channel serviceID="7567" name="11097V SID 0x7567" tsid="0412" onid="0001"/>
+		<channel serviceID="756a" name="11097V SID 0x756a" tsid="0412" onid="0001"/>
+		<channel serviceID="756f" name="11097V SID 0x756f" tsid="0412" onid="0001"/>
+		<channel serviceID="7571" name="11097V SID 0x7571" tsid="0412" onid="0001"/>
+		<channel serviceID="7572" name="11097V SID 0x7572" tsid="0412" onid="0001"/>
+		<channel serviceID="7583" name="11097V SID 0x7583" tsid="0412" onid="0001"/>
+		<channel serviceID="7575" name="11097V SID 0x7575" tsid="0412" onid="0001"/>
+		<channel serviceID="756d" name="11097V SID 0x756d" tsid="0412" onid="0001"/>
+		<channel serviceID="757e" name="11097V SID 0x757e" tsid="0412" onid="0001"/>
+		<channel serviceID="756e" name="11097V SID 0x756e" tsid="0412" onid="0001"/>
+		<channel serviceID="7690" name="10788V SID 0x7690" tsid="041e" onid="0001"/>
+		<channel serviceID="757d" name="11097V SID 0x757d" tsid="0412" onid="0001"/>
+		<channel serviceID="757c" name="11097V SID 0x757c" tsid="0412" onid="0001"/>
+		<channel serviceID="769c" name="10788V SID 0x769c" tsid="041e" onid="0001"/>
+		<channel serviceID="7576" name="11097V SID 0x7576" tsid="0412" onid="0001"/>
+		<channel serviceID="7581" name="11097V SID 0x7581" tsid="0412" onid="0001"/>
+		<channel serviceID="7578" name="11097V SID 0x7578" tsid="0412" onid="0001"/>
+		<channel serviceID="7694" name="10788V SID 0x7694" tsid="041e" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="MTV Networks" hidden="0" locked="0">
+		<channel serviceID="7004" name="Comedy Central" tsid="0436" onid="0001"/>
+		<channel serviceID="7008" name="Nick/Comedy Central+1" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff0" name="MTV 00s" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff1" name="MTV 80s" tsid="0436" onid="0001"/>
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="7006" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff0" name="MTV 00s" tsid="0436" onid="0001"/>
+		<channel serviceID="6fec" name="Comedy Central HD" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff1" name="MTV 80s" tsid="0436" onid="0001"/>
+		<channel serviceID="6fed" name="Comedy Central HD AT" tsid="0436" onid="0001"/>
+		<channel serviceID="7000" name="Comedy Central HD." tsid="0436" onid="0001"/>
+		<channel serviceID="6ffe" name="Nickelodeon Ukraine Pluto TV" tsid="0436" onid="0001"/>
+		<channel serviceID="7005" name="Nick_Jr.." tsid="0436" onid="0001"/>
+		<channel serviceID="6ffc" name="Nick_Jr." tsid="0436" onid="0001"/>
+		<channel serviceID="7004" name="Comedy Central" tsid="0436" onid="0001"/>
+		<channel serviceID="6ffb" name="Nick.Jr." tsid="0436" onid="0001"/>
+		<channel serviceID="6ff9" name="Nick Junior Global" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff7" name="Nick Jr.." tsid="0436" onid="0001"/>
+		<channel serviceID="6ff6" name="Nick Jr." tsid="0436" onid="0001"/>
+		<channel serviceID="6ff5" name="Nick Jr" tsid="0436" onid="0001"/>
+		<channel serviceID="6ffd" name="Nick_Jr_" tsid="0436" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Telesat" hidden="0" locked="0">
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="0fe0" name="Vivid" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="Digital+" hidden="0" locked="0">
+		<channel serviceID="75c6" name="PORTADA" tsid="0422" onid="0001"/>
+		<channel serviceID="759c" name="PORTADA" tsid="0422" onid="0001"/>
+		<channel serviceID="75a9" name="GUÍA" tsid="0422" onid="0001"/>
+		<channel serviceID="75b2" name="ALQUILER" tsid="0422" onid="0001"/>
+		<channel serviceID="75b0" name="ALQUILER" tsid="0422" onid="0001"/>
+		<channel serviceID="7478" name="M+ #0" tsid="03f0" onid="0001"/>
+		<channel serviceID="768e" name="ALQUILER 1" tsid="041e" onid="0001"/>
+		<channel serviceID="7568" name="ALQUILER X" tsid="0412" onid="0001"/>
+		<channel serviceID="7569" name="ALQUILER XX" tsid="0412" onid="0001"/>
+		<channel serviceID="7695" name="ALQUILER XY" tsid="041e" onid="0001"/>
+		<channel serviceID="778b" name="PLAYBOY TV" tsid="0424" onid="0001"/>
+		<channel serviceID="7692" name="MULTIDEPORTE" tsid="041e" onid="0001"/>
+		<channel serviceID="76a3" name="MULTIDEPORTE" tsid="041e" onid="0001"/>
+		<channel serviceID="76c2" name="LA 1" tsid="040e" onid="0001"/>
+		<channel serviceID="7474" name="LA 2" tsid="03f0" onid="0001"/>
+		<channel serviceID="7793" name="LALIGATV BAR" tsid="0424" onid="0001"/>
+		<channel serviceID="76c5" name="LALIGATVBAR2" tsid="040e" onid="0001"/>
+		<channel serviceID="769a" name="LALIGATVBAR3" tsid="041e" onid="0001"/>
+		<channel serviceID="7574" name="DAZN 1 BAR" tsid="0412" onid="0001"/>
+		<channel serviceID="7582" name="DAZN 2 BAR" tsid="0412" onid="0001"/>
+		<channel serviceID="7795" name="CANAL DECASA" tsid="0424" onid="0001"/>
+		<channel serviceID="7469" name="NOVA" tsid="03f0" onid="0001"/>
+		<channel serviceID="778f" name="M+ DEPORTES" tsid="0424" onid="0001"/>
+		<channel serviceID="7739" name="M+DEPORTES2" tsid="0416" onid="0001"/>
+		<channel serviceID="77c2" name="M+DEPORTES3" tsid="040a" onid="0001"/>
+		<channel serviceID="77bf" name="M+DEPORTES4" tsid="040a" onid="0001"/>
+		<channel serviceID="77c8" name="M+DEPORTES5" tsid="040a" onid="0001"/>
+		<channel serviceID="769b" name="M+DEPORTES6" tsid="041e" onid="0001"/>
+		<channel serviceID="75ff" name="M+DEPORTES7" tsid="0408" onid="0001"/>
+		<channel serviceID="7602" name="M+LCAMPEON13" tsid="0408" onid="0001"/>
+		<channel serviceID="7577" name="CLASSICA" tsid="0412" onid="0001"/>
+		<channel serviceID="746c" name="M+ ACCIÓN" tsid="03f0" onid="0001"/>
+		<channel serviceID="7696" name="M+ SERIES 2" tsid="041e" onid="0001"/>
+		<channel serviceID="746d" name="M+ COMEDIA" tsid="03f0" onid="0001"/>
+		<channel serviceID="746e" name="M+ DRAMA" tsid="03f0" onid="0001"/>
+		<channel serviceID="7736" name="M+Cine Español" tsid="0416" onid="0001"/>
+		<channel serviceID="76c0" name="M+ ESTRENOS" tsid="040e" onid="0001"/>
+		<channel serviceID="7588" name="M+ ESTRENOS 2" tsid="0412" onid="0001"/>
+		<channel serviceID="76ca" name="M+ SERIES" tsid="040e" onid="0001"/>
+		<channel serviceID="77c6" name="unknown" tsid="040a" onid="0001"/>
+		<channel serviceID="7789" name="M+ GOLF" tsid="0424" onid="0001"/>
+		<channel serviceID="749d" name="M+ VACACIONES" tsid="041c" onid="0001"/>
+		<channel serviceID="757f" name="M+ Fest" tsid="0412" onid="0001"/>
+		<channel serviceID="772e" name="NICKELODEON" tsid="0416" onid="0001"/>
+		<channel serviceID="7570" name="TOROS" tsid="0412" onid="0001"/>
+		<channel serviceID="7790" name="CALLE 13" tsid="0424" onid="0001"/>
+		<channel serviceID="76a5" name="SUNDANCE TV" tsid="041e" onid="0001"/>
+		<channel serviceID="77c1" name="HOLLYWOOD" tsid="040a" onid="0001"/>
+		<channel serviceID="7477" name="AXN" tsid="03f0" onid="0001"/>
+		<channel serviceID="7796" name="SYFY" tsid="0424" onid="0001"/>
+		<channel serviceID="75f6" name="unknown" tsid="0422" onid="0001"/>
+		<channel serviceID="76ce" name="CANAL COCINA" tsid="040e" onid="0001"/>
+		<channel serviceID="77c3" name="Gol Mundial" tsid="040a" onid="0001"/>
+		<channel serviceID="7797" name="M+ LaLigaTV" tsid="0424" onid="0001"/>
+		<channel serviceID="769d" name="M+ LaLigaTV 2" tsid="041e" onid="0001"/>
+		<channel serviceID="77bd" name="M+ LaLigaTV 3" tsid="040a" onid="0001"/>
+		<channel serviceID="769e" name="M+LCampeones BAR" tsid="041e" onid="0001"/>
+		<channel serviceID="77c9" name="M+LCampeones BAR 3 " tsid="040a" onid="0001"/>
+		<channel serviceID="7579" name="Gol Mundial." tsid="0412" onid="0001"/>
+		<channel serviceID="7607" name="Liga SmartBank" tsid="0408" onid="0001"/>
+		<channel serviceID="7606" name="Liga SmartBank 3" tsid="0408" onid="0001"/>
+		<channel serviceID="75f9" name="TEST LIG8" tsid="0408" onid="0001"/>
+		<channel serviceID="75fe" name="TEST LIG9" tsid="0408" onid="0001"/>
+		<channel serviceID="7608" name="M+LCAMPEON10" tsid="0408" onid="0001"/>
+		<channel serviceID="75fa" name="Liga SmartBank 2" tsid="0408" onid="0001"/>
+		<channel serviceID="757b" name="M+LCAMPEONES" tsid="0412" onid="0001"/>
+		<channel serviceID="769f" name="M+LCAMPEON3" tsid="041e" onid="0001"/>
+		<channel serviceID="77d8" name="M+LCAMPEON4" tsid="040a" onid="0001"/>
+		<channel serviceID="77c4" name="M+LCAMPEON5" tsid="040a" onid="0001"/>
+		<channel serviceID="760e" name="M+LCAMPEON6" tsid="0408" onid="0001"/>
+		<channel serviceID="7601" name="M+LCAMPEON7" tsid="0408" onid="0001"/>
+		<channel serviceID="760a" name="M+LCAMPEON8" tsid="0408" onid="0001"/>
+		<channel serviceID="7604" name="M+LCAMPEON9" tsid="0408" onid="0001"/>
+		<channel serviceID="760b" name="TEST ANCAM10" tsid="0408" onid="0001"/>
+		<channel serviceID="760d" name="M+LCAMPEON11" tsid="0408" onid="0001"/>
+		<channel serviceID="760f" name="M+LCAMPEON12" tsid="0408" onid="0001"/>
+		<channel serviceID="7610" name="LALIGATVBAR4" tsid="0408" onid="0001"/>
+		<channel serviceID="77bc" name="FDF" tsid="040a" onid="0001"/>
+		<channel serviceID="77c7" name="DreamWorks" tsid="040a" onid="0001"/>
+		<channel serviceID="746a" name="IBERALIA TV" tsid="03f0" onid="0001"/>
+		<channel serviceID="76c7" name="TCM" tsid="040e" onid="0001"/>
+		<channel serviceID="76c8" name="COMEDY CENTRAL" tsid="040e" onid="0001"/>
+		<channel serviceID="759e" name="BAJO DEMANDA" tsid="0422" onid="0001"/>
+		<channel serviceID="76cc" name="TELEDEPORTE" tsid="040e" onid="0001"/>
+		<channel serviceID="778a" name="CANAL ODISEA" tsid="0424" onid="0001"/>
+		<channel serviceID="7729" name="CANAL SUR A." tsid="0416" onid="0001"/>
+		<channel serviceID="76c9" name="DAZN LaLiga" tsid="040e" onid="0001"/>
+		<channel serviceID="7600" name="M+ La Resistencia" tsid="0408" onid="0001"/>
+		<channel serviceID="772b" name="CAZA Y PESCA" tsid="0416" onid="0001"/>
+		<channel serviceID="772d" name="AMC BREAK" tsid="0416" onid="0001"/>
+		<channel serviceID="7587" name="NEOX" tsid="0412" onid="0001"/>
+		<channel serviceID="75d9" name="CONTRATO" tsid="0422" onid="0001"/>
+		<channel serviceID="7730" name="COSMO" tsid="0416" onid="0001"/>
+		<channel serviceID="76c4" name="ENFAMILIA" tsid="040e" onid="0001"/>
+		<channel serviceID="756b" name="PARAMOUNT" tsid="0412" onid="0001"/>
+		<channel serviceID="7731" name="HISTORIA" tsid="0416" onid="0001"/>
+		<channel serviceID="7738" name="24 HORAS" tsid="0416" onid="0001"/>
+		<channel serviceID="749a" name="DIVINITY" tsid="041c" onid="0001"/>
+		<channel serviceID="749b" name="FOX NEWS" tsid="041c" onid="0001"/>
+		<channel serviceID="749c" name="BabyTV" tsid="041c" onid="0001"/>
+		<channel serviceID="76cf" name="AMC" tsid="040e" onid="0001"/>
+		<channel serviceID="749e" name="BOING" tsid="041c" onid="0001"/>
+		<channel serviceID="749f" name="ENERGY" tsid="041c" onid="0001"/>
+		<channel serviceID="74a0" name="unknown" tsid="041c" onid="0001"/>
+		<channel serviceID="74a3" name="GOL PLAY" tsid="041c" onid="0001"/>
+		<channel serviceID="772f" name="DISCOVERY" tsid="0416" onid="0001"/>
+		<channel serviceID="746f" name="FOX" tsid="03f0" onid="0001"/>
+		<channel serviceID="7468" name="M+ Ellas #V" tsid="03f0" onid="0001"/>
+		<channel serviceID="74a4" name="DAZN F1" tsid="041c" onid="0001"/>
+		<channel serviceID="76a4" name="DAZN 1" tsid="041e" onid="0001"/>
+		<channel serviceID="772a" name="DAZN 2" tsid="0416" onid="0001"/>
+		<channel serviceID="77be" name="DAZN 3" tsid="040a" onid="0001"/>
+		<channel serviceID="77c0" name="DAZN 4" tsid="040a" onid="0001"/>
+		<channel serviceID="76c3" name="DISNEY CH." tsid="040e" onid="0001"/>
+		<channel serviceID="746b" name="DISNEY JR" tsid="03f0" onid="0001"/>
+		<channel serviceID="7697" name="NICK JR" tsid="041e" onid="0001"/>
+		<channel serviceID="7471" name="AXN WHITE" tsid="03f0" onid="0001"/>
+		<channel serviceID="7732" name="AMC CRIME" tsid="0416" onid="0001"/>
+		<channel serviceID="74a2" name="unknown" tsid="041c" onid="0001"/>
+		<channel serviceID="778d" name="NAT GEOGRAPH" tsid="0424" onid="0001"/>
+		<channel serviceID="7472" name="NAT GEO WILD" tsid="03f0" onid="0001"/>
+		<channel serviceID="7473" name="ARAGON TV INT" tsid="03f0" onid="0001"/>
+		<channel serviceID="76c1" name="CLAN  TVE" tsid="040e" onid="0001"/>
+		<channel serviceID="76cb" name="TNT" tsid="040e" onid="0001"/>
+		<channel serviceID="772c" name="ANTENA 3" tsid="0416" onid="0001"/>
+		<channel serviceID="7792" name="CUATRO" tsid="0424" onid="0001"/>
+		<channel serviceID="778c" name="TELECINCO" tsid="0424" onid="0001"/>
+		<channel serviceID="74a8" name="BE MAD" tsid="041c" onid="0001"/>
+		<channel serviceID="74a1" name="EUROSPORT 1" tsid="041c" onid="0001"/>
+		<channel serviceID="74a7" name="EUROSPORT 2" tsid="041c" onid="0001"/>
+		<channel serviceID="74a6" name="LA SEXTA" tsid="041c" onid="0001"/>
+		<channel serviceID="7734" name="M+ #VAMOS" tsid="0416" onid="0001"/>
+		<channel serviceID="7733" name="M+ #VAMOS" tsid="0416" onid="0001"/>
+		<channel serviceID="778e" name="M+ #VAMOS BAR" tsid="0424" onid="0001"/>
+		<channel serviceID="756c" name="M+#VAMOSBAR2" tsid="0412" onid="0001"/>
+		<channel serviceID="7584" name="M+#VAMOSBAR3" tsid="0412" onid="0001"/>
+		<channel serviceID="7798" name="R. MADRID TV" tsid="0424" onid="0001"/>
+		<channel serviceID="75de" name="TEST_CSD1" tsid="0422" onid="0001"/>
+		<channel serviceID="75df" name="TEST_CSD2" tsid="0422" onid="0001"/>
+		<channel serviceID="75e0" name="TEST_CSD3" tsid="0422" onid="0001"/>
+		<channel serviceID="75e1" name="TEST_CSD4" tsid="0422" onid="0001"/>
+		<channel serviceID="75e2" name="TEST_CSD5" tsid="0422" onid="0001"/>
+		<channel serviceID="75dd" name="TEST TÉCNICO" tsid="0422" onid="0001"/>
+		<channel serviceID="7691" name="DAZN LaLiga 2" tsid="041e" onid="0001"/>
+		<channel serviceID="76a7" name="TEST F1" tsid="041e" onid="0001"/>
+		<channel serviceID="75c7" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75ca" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75e3" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75ef" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75aa" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75af" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75cf" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75ee" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75f1" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75f2" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75f5" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75ab" name="" tsid="0422" onid="0001"/>
+		<channel serviceID="75a6" name="" tsid="0422" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="CSAT" hidden="0" locked="0">
+		<channel serviceID="23f4" name="INFO TECHNIQUE" tsid="044a" onid="0001"/>
+		<channel serviceID="23aa" name="6PLAY" tsid="044a" onid="0001"/>
+		<channel serviceID="23ab" name="CANAL VOD" tsid="044a" onid="0001"/>
+		<channel serviceID="23ac" name="ESPACE CLIENT" tsid="044a" onid="0001"/>
+		<channel serviceID="2390" name="MES VIDEOS" tsid="044a" onid="0001"/>
+		<channel serviceID="2f71" name="NRJ 12" tsid="0454" onid="0001"/>
+		<channel serviceID="2f72" name="NRJ 12" tsid="0454" onid="0001"/>
+		<channel serviceID="23d1" name="LE PORN" tsid="044a" onid="0001"/>
+		<channel serviceID="23d3" name="PASS XXL DORCEL" tsid="044a" onid="0001"/>
+		<channel serviceID="23d6" name="PASS PINK X" tsid="044a" onid="0001"/>
+		<channel serviceID="23ad" name="CANAL+SERIES" tsid="044a" onid="0001"/>
+		<channel serviceID="23a4" name="ASSOCIATION MATERIEL" tsid="044a" onid="0001"/>
+		<channel serviceID="23a3" name="TOUS VOS PROGRAMMES" tsid="044a" onid="0001"/>
+		<channel serviceID="23d5" name="MYTF1" tsid="044a" onid="0001"/>
+		<channel serviceID="23f1" name="NUMEROTATIONS CANAL+" tsid="044a" onid="0001"/>
+		<channel serviceID="238d" name="MOSAIQUE UEFA CHAMPIONS LEAGUE" tsid="044a" onid="0001"/>
+		<channel serviceID="23a5" name="NETFLIX" tsid="044a" onid="0001"/>
+		<channel serviceID="23d4" name="DIAGNOSTIC TECHNIQUE" tsid="044a" onid="0001"/>
+		<channel serviceID="239d" name="." tsid="044a" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Mobistar" hidden="0" locked="0">
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="101d" name="AXN Deutschland" tsid="0451" onid="0035"/>
+		<channel serviceID="1013" name="Bergblick" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="BIS" hidden="0" locked="0">
+		<channel serviceID="2f71" name="NRJ 12" tsid="0454" onid="0001"/>
+		<channel serviceID="2f72" name="NRJ 12" tsid="0454" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="CANALDIGITAAL" hidden="0" locked="0">
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="6ff1" name="MTV 80s" tsid="0436" onid="0001"/>
+		<channel serviceID="0fe0" name="Vivid" tsid="0451" onid="0035"/>
+		<channel serviceID="100b" name="Hustler TV" tsid="0451" onid="0035"/>
+		<channel serviceID="0fe1" name="Vivid CZ" tsid="0451" onid="0035"/>
+		<channel serviceID="101d" name="AXN Deutschland" tsid="0451" onid="0035"/>
+		<channel serviceID="1013" name="Bergblick" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="TV Vlaanderen" hidden="0" locked="0">
+		<channel serviceID="6fff" name="MTV" tsid="0436" onid="0001"/>
+		<channel serviceID="0fe0" name="Vivid" tsid="0451" onid="0035"/>
+		<channel serviceID="1034" name="Eleven Sports Pro League 1 FR" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="Globecast" hidden="0" locked="0">
+		<channel serviceID="1af9" name="France 24 (en Francais)" tsid="03fe" onid="0001"/>
+		<channel serviceID="1afa" name="France 24 (In English)" tsid="03fe" onid="0001"/>
+		<channel serviceID="1b06" name="TRT World HD" tsid="03fe" onid="0001"/>
+		<channel serviceID="1b64" name="Arirang  HD" tsid="03fc" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="MEDIA BROADCAST" hidden="0" locked="0">
+		<channel serviceID="3138" name="MBS - Test2" tsid="0459" onid="0001"/>
+		<channel serviceID="314d" name="MBS - Test1" tsid="0459" onid="0001"/>
+		<channel serviceID="315e" name="MBS - Test3" tsid="0459" onid="0001"/>
+		<channel serviceID="3166" name="MBS - Test4" tsid="0459" onid="0001"/>
+		<channel serviceID="3167" name="MBS - Test5" tsid="0459" onid="0001"/>
+		<channel serviceID="3165" name="MBS - Test6" tsid="0459" onid="0001"/>
+		<channel serviceID="3162" name="MEGARADIOmix" tsid="0459" onid="0001"/>
+		<channel serviceID="313f" name="wedo movies" tsid="0459" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Harmonic/Telespazio/RFI" hidden="0" locked="0">
+		<channel serviceID="2f9a" name="SBN International" tsid="0454" onid="0001"/>
+		<channel serviceID="118a" name="Test 1" tsid="0404" onid="0001"/>
+		<channel serviceID="118b" name="Test 2" tsid="0404" onid="0001"/>
+		<channel serviceID="118c" name="Test 3" tsid="0404" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="DATA" hidden="0" locked="0">
+		<channel serviceID="6e5a" name="ARD-Data-1" tsid="0431" onid="0001"/>
+		<channel serviceID="000c" name="ASTRA SDT" tsid="0454" onid="0001"/>
+		<channel serviceID="000d" name="ASTRA SDT" tsid="0457" onid="0001"/>
+		<channel serviceID="23ef" name="DATA SYSTEM[98]" tsid="044a" onid="0001"/>
+		<channel serviceID="1c66" name="Datendienst T1M" tsid="0457" onid="0001"/>
+		<channel serviceID="75a7" name="10847V SID 0x75a7" tsid="0422" onid="0001"/>
+		<channel serviceID="75a8" name="10847V SID 0x75a8" tsid="0422" onid="0001"/>
+		<channel serviceID="75d6" name="10847V SID 0x75d6" tsid="0422" onid="0001"/>
+		<channel serviceID="7726" name="11156V SID 0x7726" tsid="0416" onid="0001"/>
+		<channel serviceID="7727" name="11156V SID 0x7727" tsid="0416" onid="0001"/>
+		<channel serviceID="0f96" name="12148H SID 0xf96" tsid="0007" onid="0085"/>
+		<channel serviceID="0f97" name="12148H SID 0xf97" tsid="0007" onid="0085"/>
+		<channel serviceID="0fa1" name="12148H SID 0xfa1" tsid="0007" onid="0085"/>
+		<channel serviceID="0fb7" name="12148H SID 0xfb7" tsid="0007" onid="0085"/>
+		<channel serviceID="12b9" name="11420H SID 0x12b9" tsid="03f7" onid="0001"/>
+		<channel serviceID="1c63" name="STB Panasonic" tsid="0457" onid="0001"/>
+		<channel serviceID="1ee6" name="SGI_1111" tsid="0457" onid="0001"/>
+		<channel serviceID="1c71" name="Panasonic Viera" tsid="0457" onid="0001"/>
+		<channel serviceID="1c1e" name="EPG Nagraguide" tsid="0451" onid="0035"/>
+		<channel serviceID="1c54" name="FP URMET" tsid="0457" onid="0001"/>
+		<channel serviceID="1c83" name="Kathrein Download" tsid="0457" onid="0001"/>
+		<channel serviceID="75ad" name="10847V SID 0x75ad" tsid="0422" onid="0001"/>
+		<channel serviceID="7698" name="10788V SID 0x7698" tsid="041e" onid="0001"/>
+		<channel serviceID="7794" name="10876V SID 0x7794" tsid="0424" onid="0001"/>
+		<channel serviceID="77ca" name="10979V SID 0x77ca" tsid="040a" onid="0001"/>
+		<channel serviceID="7564" name="11097V SID 0x7564" tsid="0412" onid="0001"/>
+		<channel serviceID="7728" name="11156V SID 0x7728" tsid="0416" onid="0001"/>
+		<channel serviceID="1c7e" name="IDS DOWNLOAD SVC" tsid="0457" onid="0001"/>
+		<channel serviceID="0fa4" name="12460H SID 0xfa4" tsid="0005" onid="0085"/>
+		<channel serviceID="7791" name="10876V SID 0x7791" tsid="0424" onid="0001"/>
+		<channel serviceID="0f95" name="12148H SID 0xf95" tsid="0007" onid="0085"/>
+		<channel serviceID="77cb" name="10979V SID 0x77cb" tsid="040a" onid="0001"/>
+		<channel serviceID="76a1" name="10788V SID 0x76a1" tsid="041e" onid="0001"/>
+		<channel serviceID="76c6" name="11038V SID 0x76c6" tsid="040e" onid="0001"/>
+		<channel serviceID="7737" name="11156V SID 0x7737" tsid="0416" onid="0001"/>
+		<channel serviceID="7476" name="11317V SID 0x7476" tsid="03f0" onid="0001"/>
+		<channel serviceID="0fb4" name="12460H SID 0xfb4" tsid="0005" onid="0085"/>
+		<channel serviceID="0fa3" name="12148H SID 0xfa3" tsid="0007" onid="0085"/>
+		<channel serviceID="23e5" name="12363V SID 0x23e5" tsid="044a" onid="0001"/>
+		<channel serviceID="1ee7" name="SES-LCN2" tsid="0457" onid="0001"/>
+		<channel serviceID="23e7" name="DOWNLOAD TNTSAT 9191" tsid="044a" onid="0001"/>
+		<channel serviceID="23e8" name="DOWNLOAD TNTSAT 9192" tsid="044a" onid="0001"/>
+		<channel serviceID="23e9" name="DOWNLOAD TNTSAT 9193" tsid="044a" onid="0001"/>
+		<channel serviceID="74a5" name="10758V SID 0x74a5" tsid="041c" onid="0001"/>
+		<channel serviceID="23ba" name="DOWNLOAD G5 SAMSUNG" tsid="044a" onid="0001"/>
+		<channel serviceID="23bb" name="DOWNLOAD G5 PACE" tsid="044a" onid="0001"/>
+		<channel serviceID="23be" name="DOWNLOAD G5+ PACE" tsid="044a" onid="0001"/>
+		<channel serviceID="23bf" name="DOWNLOAD G5+ SAGEM" tsid="044a" onid="0001"/>
+		<channel serviceID="7603" name="11685V SID 0x7603" tsid="0408" onid="0001"/>
+		<channel serviceID="7609" name="11685V SID 0x7609" tsid="0408" onid="0001"/>
+		<channel serviceID="7725" name="11156V SID 0x7725" tsid="0416" onid="0001"/>
+		<channel serviceID="0ff3" name="Downl CAM 2" tsid="0451" onid="0035"/>
+		<channel serviceID="0fb9" name="12460H SID 0xfb9" tsid="0005" onid="0085"/>
+		<channel serviceID="1b58" name="DATASYSTEM" tsid="03fc" onid="0001"/>
+		<channel serviceID="12b8" name="11420H SID 0x12b8" tsid="03f7" onid="0001"/>
+		<channel serviceID="23c8" name="12363V SID 0x23c8" tsid="044a" onid="0001"/>
+		<channel serviceID="23c9" name="12363V SID 0x23c9" tsid="044a" onid="0001"/>
+		<channel serviceID="23ca" name="12363V SID 0x23ca" tsid="044a" onid="0001"/>
+		<channel serviceID="23c0" name="DOWNLOAD R7 G5+ PACE" tsid="044a" onid="0001"/>
+		<channel serviceID="0ff4" name="M7 Zenterio" tsid="0451" onid="0035"/>
+		<channel serviceID="1af4" name="DATASYSTEM" tsid="03fe" onid="0001"/>
+		<channel serviceID="12ba" name="11420H SID 0x12ba" tsid="03f7" onid="0001"/>
+		<channel serviceID="0fc6" name="12148H SID 0xfc6" tsid="0007" onid="0085"/>
+		<channel serviceID="3145" name="RAPS" tsid="0459" onid="0001"/>
+		<channel serviceID="0f03" name="12148H SID 0xf03" tsid="0007" onid="0085"/>
+		<channel serviceID="12bc" name="11420H SID 0x12bc" tsid="03f7" onid="0001"/>
+		<channel serviceID="238f" name="DOWNLOAD R7 G5+ SAGEM" tsid="044a" onid="0001"/>
+		<channel serviceID="2398" name="DOWNLOAD R7 G5 PACE" tsid="044a" onid="0001"/>
+		<channel serviceID="239f" name="DOWNLOAD R7 G5 SAMSUNG" tsid="044a" onid="0001"/>
+		<channel serviceID="23ae" name="DOWNLOAD CPRO V2 9134" tsid="044a" onid="0001"/>
+		<channel serviceID="23e4" name="DONWLOAD SUISSE" tsid="044a" onid="0001"/>
+		<channel serviceID="23e6" name="OTA REDSAT" tsid="044a" onid="0001"/>
+		<channel serviceID="23af" name="12363V SID 0x23af" tsid="044a" onid="0001"/>
+		<channel serviceID="12bb" name="11420H SID 0x12bb" tsid="03f7" onid="0001"/>
+		<channel serviceID="12b5" name="11420H SID 0x12b5" tsid="03f7" onid="0001"/>
+		<channel serviceID="12b6" name="11420H SID 0x12b6" tsid="03f7" onid="0001"/>
+		<channel serviceID="23b0" name="PUSH VOD COLLECTIVITES" tsid="044a" onid="0001"/>
+		<channel serviceID="23ed" name="DATA SERVICE R7" tsid="044a" onid="0001"/>
+		<channel serviceID="23f3" name="DATA SERVICE R9" tsid="044a" onid="0001"/>
+		<channel serviceID="12b7" name="11420H SID 0x12b7" tsid="03f7" onid="0001"/>
+		<channel serviceID="0ff5" name="Kaon OTA" tsid="0451" onid="0035"/>
+		<channel serviceID="76cd" name="11038V SID 0x76cd" tsid="040e" onid="0001"/>
+		<channel serviceID="21fb" name="DATASYSTEM R9" tsid="044a" onid="0001"/>
+		<channel serviceID="239e" name="12363V SID 0x239e" tsid="044a" onid="0001"/>
+		<channel serviceID="23b1" name="DOWNLOAD G9 9200" tsid="044a" onid="0001"/>
+		<channel serviceID="23b2" name="DOWNLOAD G10 SAGEM" tsid="044a" onid="0001"/>
+		<channel serviceID="23b3" name="DOWNLOAD G10 HUMAX" tsid="044a" onid="0001"/>
+		<channel serviceID="0ff9" name="OTA SMIT CAM 702" tsid="0451" onid="0035"/>
+		<channel serviceID="23a6" name="DOWNLOAD SAGEM" tsid="044a" onid="0001"/>
+		<channel serviceID="23a7" name="DOWNLOAD HUMAX" tsid="044a" onid="0001"/>
+		<channel serviceID="0f9f" name="12148H SID 0xf9f" tsid="0007" onid="0085"/>
+		<channel serviceID="23a8" name="LICENCE DVL" tsid="044a" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Favourites (TV)" hidden="0" locked="0">
+	</Bouquet>
+	<Bouquet name="Radio_deutsch" hidden="0" locked="0">
+		<channel serviceID="6d6d" name="Dlf" tsid="0437" onid="0001"/>
+		<channel serviceID="6d6c" name="Dlf Kultur" tsid="0437" onid="0001"/>
+		<channel serviceID="6d71" name="Dlf Nova" tsid="0437" onid="0001"/>
+		<channel serviceID="6d6f" name="DRadio DokDeb" tsid="0437" onid="0001"/>
+		<channel serviceID="00ac" name="egoFM" tsid="0005" onid="0085"/>
+		<channel serviceID="00aa" name="ANTENNE BAYERN" tsid="0007" onid="0085"/>
+		<channel serviceID="00a0" name="ROCK ANTENNE" tsid="0007" onid="0085"/>
+		<channel serviceID="00a9" name="sunshine live" tsid="0007" onid="0085"/>
+		<channel serviceID="00b1" name="JAM FM" tsid="0005" onid="0085"/>
+		<channel serviceID="3172" name="Schlager Radio" tsid="0459" onid="0001"/>
+		<channel serviceID="3178" name="Schlager Radio" tsid="0459" onid="0001"/>
+		<channel serviceID="00ad" name="Klassik Radio" tsid="0005" onid="0085"/>
+		<channel serviceID="316f" name="Radio Paloma" tsid="0459" onid="0001"/>
+		<channel serviceID="316e" name="ffn " tsid="0459" onid="0001"/>
+		<channel serviceID="1efb" name="RTL RADIO" tsid="0457" onid="0001"/>
+		<channel serviceID="2f3b" name="TOGGO Radio" tsid="0441" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Radio_Österreich" hidden="0" locked="0">
+		<channel serviceID="3341" name="OE1" tsid="045b" onid="0001"/>
+		<channel serviceID="3342" name="OE1 DD" tsid="045b" onid="0001"/>
+		<channel serviceID="3345" name="OE2 B" tsid="045b" onid="0001"/>
+		<channel serviceID="334b" name="OE2 K" tsid="045b" onid="0001"/>
+		<channel serviceID="3344" name="OE2 N" tsid="045b" onid="0001"/>
+		<channel serviceID="3346" name="OE2 O" tsid="045b" onid="0001"/>
+		<channel serviceID="3347" name="OE2 S" tsid="045b" onid="0001"/>
+		<channel serviceID="334a" name="OE2 St" tsid="045b" onid="0001"/>
+		<channel serviceID="3348" name="OE2 T" tsid="045b" onid="0001"/>
+		<channel serviceID="3349" name="OE2 V" tsid="045b" onid="0001"/>
+		<channel serviceID="3343" name="OE2 W" tsid="045b" onid="0001"/>
+		<channel serviceID="334d" name="OE3" tsid="045b" onid="0001"/>
+		<channel serviceID="32d5" name="HITRADIO OE3" tsid="045d" onid="0001"/>
+		<channel serviceID="334e" name="FM4" tsid="045b" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="religion" hidden="0" locked="0">
+		<channel serviceID="3354" name="RADIO MARIA" tsid="045b" onid="0001"/>
+		<channel serviceID="3173" name="Radio Gloria" tsid="0459" onid="0001"/>
+		<channel serviceID="1c79" name="Radio Horeb" tsid="0457" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Digital+" hidden="0" locked="0">
+		<channel serviceID="7596" name="TEST RA" tsid="0422" onid="0001"/>
+		<channel serviceID="7598" name="TEST RA ESP" tsid="0422" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="CSAT" hidden="0" locked="0">
+		<channel serviceID="239a" name="RADIOS 1" tsid="044a" onid="0001"/>
+		<channel serviceID="2399" name="RADIOS 2" tsid="044a" onid="0001"/>
+		<channel serviceID="239c" name="RADIOS 3" tsid="044a" onid="0001"/>
+		<channel serviceID="239b" name="RF" tsid="044a" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="TV Vlaanderen" hidden="0" locked="0">
+		<channel serviceID="1012" name="Nostalgie" tsid="0451" onid="0035"/>
+	</Bouquet>
+	<Bouquet name="Astra_Radio" hidden="0" locked="0">
+		<channel serviceID="238e" name="AUDIO PRIMO" tsid="044a" onid="0001"/>
+		<channel serviceID="101a" name="VRT Radio1" tsid="0451" onid="0035"/>
+		<channel serviceID="101b" name="VRT Radio2" tsid="0451" onid="0035"/>
+		<channel serviceID="103f" name="NRJ" tsid="0451" onid="0035"/>
+		<channel serviceID="00af" name="." tsid="0005" onid="0085"/>
+		<channel serviceID="00ae" name="." tsid="0005" onid="0085"/>
+		<channel serviceID="00ab" name="." tsid="0005" onid="0085"/>
+		<channel serviceID="7599" name="10847V SID 0x7599" tsid="0422" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="MEDIA BROADCAST" hidden="0" locked="0">
+		<channel serviceID="3170" name="Radio HBR" tsid="0459" onid="0001"/>
+		<channel serviceID="3171" name="Radio HCJB" tsid="0459" onid="0001"/>
+	</Bouquet>
+	<Bouquet name="Favourites (Radio)" hidden="0" locked="0">
+	</Bouquet>
+</zapit>
