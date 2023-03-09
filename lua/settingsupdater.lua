@@ -105,7 +105,7 @@ end
 
 function check_for_update()
 	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
-	os.execute("curl -k https://raw.githubusercontent.com/KittyBua/luasettings/main/start/services.xml -o " .. tmp .. "/version_online")
+	os.execute("curl -k https://raw.githubusercontent.com/KittyBua/luasettings/master/start/satellites.xml -o " .. tmp .. "/version_online")
 	for line in io.lines(tmp .. "/version_online") do
 		if line:match(",") and line:match(":") then
 			local _,mark_begin = string.find(line, ",")
@@ -167,7 +167,7 @@ function start_update()
 		setting_url = "https://github.com/KittyBua/luasettings"
 		ok ,err, exitcode = os.execute("git clone " .. setting_url .. " " .. tmp)
 	else
-		setting_url = "https://codeload.github.com/KittyBua/luasettings/zip/main"
+		setting_url = "https://codeload.github.com/KittyBua/luasettings/zip/master"
 		ok ,err, exitcode = os.execute("curl -k " .. setting_url .. " -o " .. tmp .. ".zip")
 		if (exists(tmp) ~= true) then
 			os.execute("mkdir " .. tmp)
